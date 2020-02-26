@@ -26,3 +26,5 @@ The following libraries were used for this coding project: jQuery (https://jquer
 5. Add event listener to start the game and reload the game.
 6. Setup functions to: shuffle cards, show cards, match cards, remove cards, track moves, star ratings, display modal on game over and refresh game.
 
+
+Here's the final version: https://k0malv.github.io/MemoryGame/
